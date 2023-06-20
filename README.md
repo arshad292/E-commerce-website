@@ -2,5 +2,5 @@
 Frontend: ReactJs
 Backend: PythonDjango
 
-Api: Rest API
+Api: Rest API,
 Http Client: Axios
